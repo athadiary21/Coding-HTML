@@ -1,0 +1,4 @@
+/* corrected 'paddding' to a valid CSS rule */
+p {
+  padding: 20px;
+}
